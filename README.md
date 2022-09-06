@@ -3,18 +3,19 @@ Hi I’m Dayna 👋
  
 # Projects 
 
-## Hotel Booking Project 
+## [Hotel Booking Project](https://github.com/dayna1213/hotel_booking_project)
 - Program: R
 - Skills: Data Cleaning, Data Manipulation, Data Visualization
 
-## Baby Name Project
+## [Baby Name Project](https://github.com/dayna1213/BabynameProject)
 - Program: SQL 
 - Skills: Data Manipulation
 
-## International Debt Project 
+## [International Debt Project](https://github.com/dayna1213/International-Debt-Project)
 - Program: SQL 
 - Skills: Data Cleaning, Data Manipulation
 
-## Covid Data Project
-- 
+## [Covid Data Project](https://github.com/dayna1213/CovidDataProject)
+- Program: SQL
+- Skills: Data Cleaning, Data Manipulation
 

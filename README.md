@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @dayna1213
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning SQL, Tableau, Python
+Hi I’m Dayna 👋
+ This portfolio is created to record and share my data analysis self-learning journey. 
+ 
+# Projects 
 
-<!---
-dayna1213/dayna1213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hotel Booking Project 
+- Program: R
+- Skills: Data Cleaning, Data Manipulation, Data Visualization
+
+## Baby Name Project
+- Program: SQL 
+- Skills: Data Manipulation
+
+## International Debt Project 
+- Program: SQL 
+- Skills: Data Cleaning, Data Manipulation
+
+## Covid Data Project
+- 
+

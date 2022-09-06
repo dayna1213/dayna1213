@@ -1,5 +1,6 @@
 Hi I’m Dayna 👋
  This portfolio is created to record and share my data analysis self-learning journey. 
+I'm using SQL, Python, R, and Tableau for my analysis. 
  
 # Projects 
 
